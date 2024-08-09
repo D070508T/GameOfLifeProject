@@ -1,0 +1,60 @@
+Username: new
+Password: game
+Selected Monster: (NO DIPLOMA) Zombie
+Currency: 59000
+Friends: 
+Room: null
+Captured Humans: Stella, 
+Player Done
+Selected Monster: (NO DIPLOMA) Ghost
+Currency: 81000
+Friends: 
+Room: null
+Captured Humans: Naman, 
+AI1 Done
+Selected Monster: (NO DIPLOMA) Skeleton
+Currency: 59000
+Friends: 
+Room: null
+Captured Humans: 
+AI2 Done
+Username: newgame
+Password: pass
+Selected Monster: (NO DIPLOMA) Ghost
+Currency: 155500
+Friends: 
+Room: null
+Captured Humans: Kana, Naman, 
+Player Done
+Selected Monster: (DIPLOMA) Skeleton
+Currency: 265000
+Friends: 
+Room: null
+Captured Humans: Shahzaib, Shahzaib, 
+AI1 Done
+Selected Monster: (DIPLOMA) Ghost
+Currency: 158500
+Friends: 
+Room: null
+Captured Humans: Gustavo, Gustavo, 
+AI2 Done
+Username: 123
+Password: 123
+Selected Monster: (NO DIPLOMA) Zombie
+Currency: 213000
+Friends: 
+Room: null
+Captured Humans:  Shane,  Jatin, 
+Player Done
+Selected Monster: (NO DIPLOMA) Ghost
+Currency: 229500
+Friends: 
+Room: Ghostly Grand Ballroom,purchase price: 0,boundry: 3000
+Captured Humans:  Stella,  Naman, 
+AI1 Done
+Selected Monster: (NO DIPLOMA) Skeleton
+Currency: 478500
+Friends: 
+Room: null
+Captured Humans: Stella,  Jatin,  Stella, 
+AI2 Done
